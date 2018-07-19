@@ -1,0 +1,15 @@
+{
+  "app": {
+    "js": "/assets/app-91d34a8dcd00f3f7a23d.js",
+    "css": "/assets/app-91d34a8dcd00f3f7a23d.css"
+  },
+  "common": {
+    "js": "/assets/common-91d34a8dcd00f3f7a23d.js"
+  },
+  "": {
+    "html": "/index.html"
+  },
+  "metadata": {
+    "version": "1.1.0"
+  }
+}
